@@ -10,7 +10,7 @@ h1 {
     color: #fff6a9;
   font-family: "Sacramento", cursive;
   text-align: center;
-  animation: blink 3s infinite;
+  animation: blink 2s infinite;
   -webkit-animation: blink 1.5s infinite;
 }
 
